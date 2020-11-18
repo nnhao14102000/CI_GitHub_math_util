@@ -36,6 +36,8 @@ public class Main {
         System.out.println("expected: IllegalArgumentException: " + MathUtility.getFactorial(-5));
        
         System.out.println("Chúc cuối tuần thứ 9 vui vẻ");
+        
+        System.out.println("Check Green & Red");
     }
 
 }
